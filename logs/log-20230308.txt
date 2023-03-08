@@ -1,0 +1,6 @@
+2023-03-08 15:33:26.094 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-08 15:33:26.190 +08:00 [INF] Hosting environment: Development
+2023-03-08 15:33:26.193 +08:00 [INF] Content root path: D:\Projects\for_test\NET7_Serilog\lab-NET7-Serilog\lab-NET7-Serilog
+2023-03-08 15:33:31.031 +08:00 [INF] From HomeController Index
+2023-03-08 15:33:31.523 +08:00 [WRN] For Test Only
+2023-03-08 15:33:39.128 +08:00 [WRN] From My Logger uri: https://github.com/, Content: 
